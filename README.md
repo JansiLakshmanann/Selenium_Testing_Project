@@ -1,2 +1,2 @@
-# Selenium_Testing_Project
-This project demonstrates end-to-end automation testing of an e-commerce website using Selenium WebDriver. It covers key functionalities such as login, product search, add-to-cart, checkout, and logout. The purpose is to simulate real-world QA testing scenarios and showcase automation testing skills for manual and automation testing roles.
+Demo Web Shop – Selenium Automation Project
+This project is a Selenium WebDriver automation framework developed using Java to test key e-commerce functionalities of demowebshop.tricentis.com. It includes 20+ automated test cases covering product search, add to cart, delete items, move products to cart, cart list validation, and order summary verification. The framework is built using Java, Selenium, TestNG, and Maven, following best practices for maintainable and reliable test automation.
